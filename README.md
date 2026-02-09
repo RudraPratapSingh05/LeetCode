@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Array
+|  |
+| ------- |
+| [3637-trionic-array-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3637-trionic-array-i) |
 <!---LeetCode Topics End-->
