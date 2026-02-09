@@ -41,6 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3640-trionic-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
