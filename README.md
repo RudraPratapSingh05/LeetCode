@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
