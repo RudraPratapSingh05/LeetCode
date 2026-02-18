@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0067-add-binary) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
