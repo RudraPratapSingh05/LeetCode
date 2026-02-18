@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0067-add-binary) |
+| [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 ## Combinatorics
