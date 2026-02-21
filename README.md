@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0067-add-binary) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
