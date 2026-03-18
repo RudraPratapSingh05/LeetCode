@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
