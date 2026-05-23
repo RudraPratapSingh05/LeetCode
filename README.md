@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Tree
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1833-maximum-ice-cream-bars](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0761-special-binary-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1833-maximum-ice-cream-bars](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
