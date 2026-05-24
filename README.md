@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0799-champagne-tower) |
 | [1340-jump-game-v](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1340-jump-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
