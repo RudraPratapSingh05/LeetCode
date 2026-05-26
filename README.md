@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1871-jump-game-vii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3713-longest-balanced-substring-i) |
