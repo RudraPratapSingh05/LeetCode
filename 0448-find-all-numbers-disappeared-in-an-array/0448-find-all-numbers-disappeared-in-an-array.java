@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-       Set<Integer> unique = new TreeSet<>();
+       Set<Integer> unique = new HashSet<>();
        for(int num:nums){
         unique.add(num);
        }
