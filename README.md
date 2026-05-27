@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0067-add-binary) |
+| [0520-detect-capital](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
