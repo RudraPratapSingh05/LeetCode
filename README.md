@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0761-special-binary-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
 | [0761-special-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0761-special-binary-string) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
