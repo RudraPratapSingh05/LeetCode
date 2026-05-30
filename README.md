@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3161-block-placement-queries](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3161-block-placement-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3637-trionic-array-i) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3161-block-placement-queries](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3161-block-placement-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
