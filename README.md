@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3161-block-placement-queries](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3161-block-placement-queries) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
