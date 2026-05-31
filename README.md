@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0799-champagne-tower](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0799-champagne-tower) |
+| [0845-longest-mountain-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1340-jump-game-v](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1340-jump-game-v) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1871-jump-game-vii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0845-longest-mountain-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0845-longest-mountain-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3713-longest-balanced-substring-i) |
