@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1871-jump-game-vii) |
 | [3640-trionic-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3640-trionic-array-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
 | ------- |
