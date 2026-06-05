@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1871-jump-game-vii) |
 | [3640-trionic-array-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3272-find-the-count-of-good-integers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3272-find-the-count-of-good-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
