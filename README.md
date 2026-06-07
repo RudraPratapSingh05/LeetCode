@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## String
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
