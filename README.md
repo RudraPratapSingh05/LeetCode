@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2574-left-and-right-sum-differences](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/RudraPratapSingh05/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
