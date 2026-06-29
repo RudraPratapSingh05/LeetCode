@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
