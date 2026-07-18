@@ -1,9 +1,8 @@
 class Solution {
     public int findGCD(int[] nums) {
         Arrays.sort(nums);
-        return gcd(nums[0],nums[nums.length-1]);
-    }
-    private int gcd(int a,int b){
+        int a = nums[0];
+        int b = nums[nums.length-1];
         while(b!=0){
             int temp = b;
             b=a%b;
