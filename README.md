@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1200-minimum-absolute-difference](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1340-jump-game-v) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RudraPratapSingh05/LeetCode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RudraPratapSingh05/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
